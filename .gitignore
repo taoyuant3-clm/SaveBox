@@ -1,0 +1,4 @@
+*.apk
+!releases/*.apk
+*.jks
+*.keystore
